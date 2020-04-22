@@ -12,7 +12,8 @@ namespace Minesweeper
         private static readonly int reviselength_Mine = 50;
         private static readonly int reviselength_Num = 64;
         public bool whetherTheMine;
-        public Mine(int x, int y)
+
+        public Mine(int x, int y) //地雷
         {
             this.Location = new Point(x - (reviselength_Mine / 2), y - (reviselength_Mine / 2));
             this.Size = new Size(50, 50);
@@ -20,7 +21,7 @@ namespace Minesweeper
             whetherTheMine = true;
         }
 
-        public Mine(int x, int y, int num)
+        public Mine(int x, int y, int num) //無地雷，顯示周圍有多地雷
         {
             this.Location = new Point(x - (reviselength_Num / 2), y - (reviselength_Num / 2));
             this.Size = new Size(64, 64);

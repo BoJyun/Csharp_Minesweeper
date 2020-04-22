@@ -7,3 +7,12 @@ D:\coding_practice\C#學習日記\Minesweeper\Minesweeper\obj\Debug\Minesweeper.
 D:\coding_practice\C#學習日記\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
 D:\coding_practice\C#學習日記\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
 D:\coding_practice\C#學習日記\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\coding_practice\C#diary\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
